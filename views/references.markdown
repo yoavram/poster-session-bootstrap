@@ -1,8 +1,9 @@
 ## References
 
-<!-- 
-todo: find a way to render list on one big line
---->
-
-1. Reference #1
-2. Reference #2
+<ul class="list-inline">
+<li>
+Reference #1
+</li>
+<li>
+Reference #2
+</li>
